@@ -2,5 +2,5 @@
 
 Hi GitHub,
 
-I'm Pathima Shahama Tamber from Colombo.  I'm Reading for my Msc in It Specializing in Cyber Security. 
+I'm Pathima Shahama Tamber from Colombo.  I'm Reading for my Msc in IT Specializing in Cyber Security. 
 
